@@ -1,14 +1,10 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "name": "John",
-      "order": "Coffee"
-    }
-    {
-      "id": 1,
-      "name": "Gary",
-      "order": "Orange Juice"
-    }
-  ]
-}
+	id: 1,
+	name: "Gary",
+	order: "Coffee"
+},
+{
+	id: 2,
+	name: "Ross",
+	order: "Milk"
+},
